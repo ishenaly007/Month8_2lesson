@@ -8,7 +8,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //that's mater
+        //that's feature
+        //that's debug1
+        //that's debug2
+        //that's debug3
 
     }
 }
