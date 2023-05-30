@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //that's develop
-        //that's debug
+        //that's not debug now
+        //that's debug fixed
 
 
     }
